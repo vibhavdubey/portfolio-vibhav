@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-vibhav/static/css/main.3156d30a.css",
+    "main.js": "/portfolio-vibhav/static/js/main.2f75c840.js",
+    "static/media/vibhavImg.png": "/portfolio-vibhav/static/media/vibhavImg.f57d472fd12d82ec70b4.png",
+    "static/media/portfolio-6.png": "/portfolio-vibhav/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/portfolio-vibhav/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/portfolio-vibhav/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/portfolio-vibhav/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/portfolio-vibhav/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/portfolio-vibhav/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/instagram-logo.png": "/portfolio-vibhav/static/media/instagram-logo.ce99cf1fc12cfe6edd77.png",
+    "static/media/Java-Logo.png": "/portfolio-vibhav/static/media/Java-Logo.09f5a80c7f42f1c28839.png",
+    "static/media/react-logo.png": "/portfolio-vibhav/static/media/react-logo.3b5049ea7908e9da3ba0.png",
+    "static/media/linkedin-logo.png": "/portfolio-vibhav/static/media/linkedin-logo.94f635f3db51862445e3.png",
+    "static/media/youtube-logo.png": "/portfolio-vibhav/static/media/youtube-logo.d2e907b867c8a27af454.png",
+    "index.html": "/portfolio-vibhav/index.html",
+    "main.3156d30a.css.map": "/portfolio-vibhav/static/css/main.3156d30a.css.map",
+    "main.2f75c840.js.map": "/portfolio-vibhav/static/js/main.2f75c840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3156d30a.css",
+    "static/js/main.2f75c840.js"
+  ]
+}
